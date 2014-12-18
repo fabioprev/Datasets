@@ -1,3 +1,6 @@
 [submodule "Venice"]
 	path = Venice
 	url = https://github.com/fabioprev/Venice.git
+[submodule "InSpace"]
+	path = InSpace
+	url = https://github.com/fabioprev/InSpace.git
