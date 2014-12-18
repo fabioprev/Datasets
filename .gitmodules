@@ -4,3 +4,12 @@
 [submodule "InSpace"]
 	path = InSpace
 	url = https://github.com/fabioprev/InSpace.git
+[submodule "PETS-2009"]
+	path = PETS-2009
+	url = https://github.com/fabioprev/PETS-2009.git
+[submodule "Soccer"]
+	path = Soccer
+	url = https://github.com/fabioprev/Soccer.git
+[submodule "Edinburgh-Atrium"]
+	path = Edinburgh-Atrium
+	url = https://github.com/fabioprev/Edinburgh-Atrium.git
