@@ -1,0 +1,3 @@
+[submodule "Venice"]
+	path = Venice
+	url = https://github.com/fabioprev/Venice.git
